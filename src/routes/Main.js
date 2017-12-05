@@ -37,7 +37,7 @@ const routes = [
   {
     type: "redirect",
     from: "/",
-    to: "/dashboard"
+    to: "/login"
   }
 ];
 
